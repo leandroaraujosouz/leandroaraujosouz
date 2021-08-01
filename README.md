@@ -20,5 +20,8 @@
   <a href="https://www.linkedin.com/in/leandro-as/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 <div>
- ![Snake animation](https://github.com/leandroaraujosouz/leandroaraujosouz/blob/output/github-contribution-grid-snake.svg)
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+
 </div>
